@@ -12,7 +12,7 @@
 ## ⏱ Github Stats
 
 <div align="center">
-  <img alt="M Yusril Aprial Pradana Profile View Counter" src="https://komarev.com/ghpvc/?username=yusrilaprial&color=8B5CF6&style=flat-square&label=MY+PROFILE+VIEWS"/>
+  <img alt="M Yusril Aprial Profile View Counter" src="https://komarev.com/ghpvc/?username=yusrilaprial&color=brightgreen&style=flat-square&label=Profile+Views"/>
 
   </br>
   </br>
