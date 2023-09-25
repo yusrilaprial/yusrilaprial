@@ -1,10 +1,11 @@
 <h1>
-  Hi
+<!--   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
   , I am
   <a href="https://yusrilaprial.github.io/cv" target="_blank">
     <b>M Yusril Aprial</b>
-  </a> 💻
+  </a> 💻 -->
+  Hi, I am <a href="https://yusrilaprial.github.io/cv" target="_blank"><b>M Yusril Aprial</b></a>
 </h1> 
 - 👀 I’m interested in Web Programming </br>
 - 🌱 I’m currently learning Laravel
