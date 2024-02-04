@@ -8,7 +8,7 @@
   Hi, I am <a href="https://yusrilaprial.github.io/cv" target="_blank"><b>Yusril</b></a>
 </h1> 
 - 👀 I’m interested in Web Programming </br>
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel, Nuxt, and Flutter
 
 ## ⏱ Github Stats
 
