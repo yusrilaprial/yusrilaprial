@@ -5,7 +5,7 @@
   <a href="https://yusrilaprial.github.io/cv" target="_blank">
     <b>M Yusril Aprial</b>
   </a> 💻 -->
-  Hi, I am <a href="https://yusrilaprial.github.io/cv" target="_blank"><b>Yusril</b></a>
+  Hi, I am <a href="https://linkedin.com/in/m-yusril-aprial-b30119241" target="_blank"><b>Yusril</b></a>
 </h1> 
 - 👀 I’m interested in Web Programming </br>
 - 🌱 I’m currently learning Laravel, Nuxt, and Flutter
